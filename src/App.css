@@ -1,0 +1,10 @@
+/* NAV BAR STYLING */
+#site-title {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+}
+
+.content {
+    position: absolute;
+    top: 100px;
+}
